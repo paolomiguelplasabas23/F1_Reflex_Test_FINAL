@@ -347,6 +347,11 @@ All queries use **parameterized placeholders (`?`)** to prevent SQL injection.
 
 - All lights off — the player must react immediately.
 
+### Valid Reaction
+![Valid Reaction](screenshots/valid_reaction.png)
+
+- Valid reaction is recorded.
+
 ### Jump Start Penalty
 ![Jump Start](screenshots/jumpstart.png)
 
